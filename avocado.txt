@@ -1,3 +1,4 @@
 hey i am avocado
 am a fruits
 ok
+added new line
